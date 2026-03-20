@@ -45,4 +45,3 @@ bqplot
 
 # evaluation.py
 scikit-learn
-paired
